@@ -7,7 +7,7 @@
 ---
 
 ### Disclaimer
-The algorithmic trading strategies, scripts, backtests, and associated content provided here are for **educational and informational purposes only**. They do not constitute financial advice, investment advice, trading advice, or a solicitation to buy or sell any security, cryptocurrency, or derivative instrument. Trading in financial markets carries a high degree of risk and is not suitable for all investors.
+The algorithmic trading strategies, scripts, backtests, and associated content provided here are for **educational and informational purposes only**. They do not constitute financial advice, investment advice, trading advice, or a solicitation to buy or sell any security, cryptocurrency, or derivative instrument. Trading in financial markets carries a high degree of risk and is not suitable for all investors. AI was used extensively in the whole process.
 
 Please refer to the Strategies_Analysis_Report.pdf for a more detailed Summary of the backtests.
 ---
