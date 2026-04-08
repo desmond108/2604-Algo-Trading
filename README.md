@@ -86,7 +86,7 @@ Detailed assessment of how friction (slippage and commissions) degrades strategy
 
 ---
 
-### 6. Final Recommendations
+### 6. Highlights
 1.  **Prioritize RSI4 25/55:** Best risk-adjusted profile and lowest sensitivity to costs.
-2.  **Optimize Execution:** High-frequency strategies (Stoch K, CCI) must be traded via **E-mini (ES)** or **Micro E-mini (MES)** futures to remain viable.
+2.  **Optimize Execution:** High-frequency strategies (Stoch K, CCI) transaction costs could be reduced via **E-mini (ES)** or **Micro E-mini (MES)** futures.
 3.  **Position Sizing:** Utilize a conservative **half-Kelly** approach to manage tail risk while maintaining growth.
